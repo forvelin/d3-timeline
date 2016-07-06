@@ -1,7 +1,7 @@
 {
-  "name": "d3-timeline",
-  "version": "0.0.5",
-  "main": "src/d3-timeline.js",
+  "name": "d3-timeline-coffee",
+  "version": "0.0.1",
+  "main": "src/timeline-chart.js.coffee",
   "ignore": [
       "examples",
       "lib",
